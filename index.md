@@ -16,6 +16,6 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 ## Countries visited
 
-Italy
-Germany
-Greece
+- Italy
+- Germany
+- Greece

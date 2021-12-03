@@ -1,4 +1,4 @@
-Georgios Priftis
+# Georgios Priftis
 
 👋  Heyyo, I'm <your_name>!
 
@@ -10,11 +10,11 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 🎨  When I'm not working, I like <favorite_hobby>.
 
 
-Favorite quote
+## Favorite quote
 
 <insert_quote_here>
 
-Countries visited
+## Countries visited
 
 Italy
 Germany

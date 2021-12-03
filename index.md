@@ -14,7 +14,8 @@ Favorite quote
 
 <insert_quote_here>
 
-States visited
+Countries visited
 
-Alabama
-Utah
+Italy
+Germany
+Greece

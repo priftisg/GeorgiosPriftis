@@ -8,3 +8,14 @@ Georgios Priftis
 At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like <favorite_hobby>.
+
+
+Favorite quote
+
+<insert_quote_here>
+
+Countries visited
+
+Italy
+Germany
+Greece
